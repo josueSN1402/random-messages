@@ -1,0 +1,28 @@
+{
+  "name": "random-messages",
+  "version": "1.0.0",
+  "description": "Random de mensajes",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josueSN1402/random-messages.git"
+  },
+  "keywords": [
+    "javascript",
+    "node",
+    "npm"
+  ],
+  "author": "Josue Sanchez Nima <josue.sanchez.n1402@hotmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/josueSN1402/random-messages/issues"
+  },
+  "homepage": "https://github.com/josueSN1402/random-messages#readme",
+  "bin": {
+    "random-msg": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
